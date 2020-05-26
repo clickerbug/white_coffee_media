@@ -2,44 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
-
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
-
-<!-- | Config setting | Thumbnail |
-| --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
-
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-athena"
-```
-
-And add this line to your Jekyll site `config.yml`:
-
-```yaml
-theme: jekyll-athena
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-athena
+From our experience, we have learned that one of the most important things that we bring to the table is perspective. Our method of interpretation and way of asking seemingly stupid questions helps us in understanding your business and your clients. the perspective it offers helps us to convert complex problems to simple viable solutions and relevant communication, in collaboration with you.
+                         
+To say we are passionate about our work is really an understatement. Our creative team lives and breathes design, From copy to typography to photography and illustration, we make sure your communications are always at the forefront of good design.
+![2020-05-02-511640.jpg](https://clickerbug.github.io/white_coffee_media/assets/2020-05-02-511640.jpg)
