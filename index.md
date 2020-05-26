@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: ''
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+![2020-05-02-356830.jpg](https://clickerbug.github.io/white_coffee_media/assets/2020-05-02-356830.jpg)
